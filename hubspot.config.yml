@@ -1,0 +1,14 @@
+defaultPortal: Exam
+portals:
+  - name: Exam
+    portalId: 143162131
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          COy238WgMRIRAA0AQAAA4C0DQAJYAgEAAMAYk_ahRCCgytYZKO7pDDIU0_DxgsgSzNfiSMeFJ2mmeAHz19Y6OAAABEEAAAB4AAAAAAAAAAAAgAAAAAAABAAAwAcA_v8xPGAQBgBEAGBA_BgGABAgAwAAAAAAMAIDQhTNTXgJ99t9Gq5HFUzBGqlidZZpr0oDZXUxUgBaAA
+        expiresAt: '2023-08-18T12:56:21.635Z'
+    personalAccessKey: >-
+      CiRldTEtYzBkOS05NGNkLTQzZjctOTQ2Ni0wZmE4NDZkZWQ3ZjgQk_ahRBigytYZKhkABeaRghL5PiXzHmFKvI0T_jkt8maT7O0kSgNldTE
+    sandboxAccountType: null
+    parentAccountId: null
